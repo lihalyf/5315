@@ -1,124 +1,94 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "Lebron James",
+      "gender": "Male"
+      "Team": "Lakers",
+      "number": "23"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "Steven Curry",
+      "gender": "Male",
+      "Team": "Warrior",
+      "number": "30"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Raj Rondo",
+      "gender": "Male"
+      "Team": "Lakers",
+      "number": "0"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "Ming Yao",
+      "gender": "Male"
+      "Team": "Rocket",
+      "number": "11"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "James Harden",
+      "gender": "Male"
+      "Team": "Rocket",
+      "number": "13"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "Chris Paul",
+      "gender": "Male"
+      "Team": "Rocket",
+      "number": "3"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "Jason Tatum",
+      "gender": "Male"
+      "Team": "Celtics",
+      "number": "0"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Kevin Durrant",
+      "gender": "Male"
+      "Team": "Warrior",
+      "number": "35"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Paul George",
+      "gender": "Male"
+      "Team": "Thunder",
+      "number": "13"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Ben Gorden",
+      "gender": "Male"
+      "Team": "Bull",
+      "number": "13"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Anthony Davis",
+      "gender": "Male"
+      "Team": "Lakers",
+      "number": "30"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "name": "Carmelo Anthony",
+      "gender": "Male"
+      "Team": "Nuggets",
+      "number": "7"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Allen Iverson",
+      "gender": "Male"
+      "Team": "76ers",
+      "number": "3"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "name": "JR. Smith",
+      "gender": "Male"
+      "Team": "Cavaliers",
+      "number": "13"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Dwyane Wade",
+      "gender": "Male"
+      "Team": "Heat",
+      "number": "3"
     }
   ]
 }
