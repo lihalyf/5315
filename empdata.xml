@@ -2,92 +2,92 @@
   <employees>
     <data>
       <name>Lebron James</name>
-      <gender>Male<gender>
-      <Team>Lakers<Tean>
-      <number>23<number>
+      <gender>Male</gender>
+      <Team>Lakers</Team>
+      <number>23</number>
     </data>
     <data>
       <name>Steven Curry</name>
-      <gender>Male<gender>
-      <Team>Warrior<Tean>
-      <number>30<number>
+      <gender>Male</gender>
+      <Team>Warrior</Team>
+      <number>30</number>
     </data>
     <data>
       <name>Raj Rondo</name>
-      <gender>Male<gender>
-      <Team>Lakers<Tean>
-      <number>0<number>
+      <gender>Male</gender>
+      <Team>Lakers</Team>
+      <number>0</number>
     </data>
     <data>
       <name>Ming Yao</name>
-      <gender>Male<gender>
-      <Team>Rocket<Tean>
-      <number>11<number>
+      <gender>Male</gender>
+      <Team>Rocket</Team>
+      <number>11</number>
     </data>
     <data>
       <name>James Harden</name>
-      <gender>Male<gender>
-      <Team>Rocket<Tean>
-      <number>13<number>
+      <gender>Male</gender>
+      <Team>Rocket</Team>
+      <number>13</number>
     </data>
     <data>
       <name>Chris Paul</name>
-      <gender>Male<gender>
-      <Team>Rocket<Tean>
-      <number>3<number>
+      <gender>Male</gender>
+      <Team>Rocket</Team>
+      <number>3</number>
     </data>
     <data>
       <name>Jason Tatum</name>
-      <gender>Male<gender>
-      <Team>Celtics<Tean>
-      <number>0<number>
+      <gender>Male</gender>
+      <Team>Celtics</Team>
+      <number>0</number>
     </data>
     <data>
       <name>Kevin Durrant</name>
-      <gender>Male<gender>
-      <Team>Warrior<Tean>
-      <number>35<number>
+      <gender>Male</gender>
+      <Team>Warrior</Team>
+      <number>35</number>
     </data>
     <data>
       <name>Paul George</name>
-      <gender>Male<gender>
-      <Team>Thunder<Tean>
-      <number>13<number>
+      <gender>Male</gender>
+      <Team>Thunder</Team>
+      <number>13</number>
     </data>
     <data>
       <name>Ben Gorden</name>
-      <gender>Male<gender>
-      <Team>Bull<Tean>
-      <number>13<number>
+      <gender>Male</gender>
+      <Team>Bull</Team>
+      <number>13</number>
     </data>
     <data>
       <name>Anthony Davis</name>
-      <gender>Male<gender>
-      <Team>Lakers<Tean>
-      <number>30<number>
+      <gender>Male</gender>
+      <Team>Lakers</Team>
+      <number>30</number>
     </data>
     <data>
       <name>Carmelo Anthony</name>
-      <gender>Male<gender>
-      <Team>Nuggets<Tean>
-      <number>7<number>
+      <gender>Male</gender>
+      <Team>Nuggets</Team>
+      <number>7</number>
     </data>
     <data>
       <name>Allen Iverson</name>
-      <gender>Male<gender>
-      <Team>76ers<Tean>
-      <number>3<number>
+      <gender>Male</gender>
+      <Team>76ers</Team>
+      <number>3</number>
     </data>
     <data>
       <name>JR. Smith</name>
-      <gender>Male<gender>
-      <Team>Cavaliers<Tean>
-      <number>13<number>
+      <gender>Male</gender>
+      <Team>Cavaliers</Team>
+      <number>13</number>
     </data>
     <data>
       <name>Dwyane Wade</name>
-      <gender>Male<gender>
-      <Team>Heat<Tean>
-      <number>3<number>
+      <gender>Male</gender>
+      <Team>Heat</Team>
+      <number>3</number>
     </data>
   </employees>

@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Lebron James",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Lakers",
       "number": "23"
     },
@@ -14,79 +14,79 @@
     },
     {
       "name": "Raj Rondo",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Lakers",
       "number": "0"
     },
     {
       "name": "Ming Yao",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Rocket",
       "number": "11"
     },
     {
       "name": "James Harden",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Rocket",
       "number": "13"
     },
     {
       "name": "Chris Paul",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Rocket",
       "number": "3"
     },
     {
       "name": "Jason Tatum",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Celtics",
       "number": "0"
     },
     {
       "name": "Kevin Durrant",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Warrior",
       "number": "35"
     },
     {
       "name": "Paul George",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Thunder",
       "number": "13"
     },
     {
       "name": "Ben Gorden",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Bull",
       "number": "13"
     },
     {
       "name": "Anthony Davis",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Lakers",
       "number": "30"
     },
     {
       "name": "Carmelo Anthony",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Nuggets",
       "number": "7"
     },
     {
       "name": "Allen Iverson",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "76ers",
       "number": "3"
     },
     {
       "name": "JR. Smith",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Cavaliers",
       "number": "13"
     },
     {
       "name": "Dwyane Wade",
-      "gender": "Male"
+      "gender": "Male",
       "Team": "Heat",
       "number": "3"
     }
